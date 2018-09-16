@@ -1,0 +1,6 @@
+1) Open cmd in the folder containing prg.exe + input.txt by left click on file in top of window and open cmd in default not in administrator.
+
+2) To generate output file
+	c:\user....> prg.exe <input .txt > output.txt
+
+3) Every time if changes are made in source code first execute the source code in codeblocks so as to update exe file the output the result.
